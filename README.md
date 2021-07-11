@@ -35,3 +35,9 @@ Each question has its own handler. There are 2 handlers for those 2 question typ
 There are 2 exceptions in the application:
 - InvalidFormatException, which is an exception for an invalid format of galactical numbers
 - SystemErrorException, which is an exception for fatal condition, it's occurred when users input unknown words for the galactical numbers
+
+<hr/>
+
+## Testing
+
+![testing](https://i.ibb.co/59DvLJc/test.png)
